@@ -78,3 +78,4 @@ function ContributionsHandler(db) {
 }
 
 module.exports = ContributionsHandler;
+
